@@ -28,7 +28,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex flex-col items-center mt-20 gap-10">
+    <div className="flex flex-col items-center my-20 gap-10">
       <div>
         <span className="text-6xl font-bold">
           Watch Less, Learn More
